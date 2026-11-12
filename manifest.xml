@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<updates>
+	<update>
+		<name><![CDATA[ Phoca Cart Subscription Task Plugin ]]></name>
+		<description><![CDATA[ Phoca Cart Subscription Task Plugin - subscription Phoca Cart task plugin. ]]></description>
+		<element>phocacartsubscription</element>
+		<folder>task</folder>
+		<type>plugin</type>
+		<version>6.1.3</version>
+		<infourl title="Phoca Cart Subscription Task Plugin 6.1.3">https://www.phoca.cz/</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/PhocaCz/PhocaCartSubscriptionTaskPlugin/releases/download/6.1.3/plg_task_phocacartsubscription_v6.1.3.zip</downloadurl>
+		</downloads>
+		<sha512>03d447d32f5359ccb06c95b5fb55fa8c95fe5a06c3b72ea696484d486f752f665da053d6c92547fd2a6b0584f2b72fee844ee3b2e4eecd79ed8ae9bdd1fd8ccd</sha512>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer><![CDATA[ Phoca.cz ]]></maintainer>
+		<maintainerurl>https://www.phoca.cz/</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="(5|6)\.*"/>
+		<client>site</client>
+	</update>
+</updates>

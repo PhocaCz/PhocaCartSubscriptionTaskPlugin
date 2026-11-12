@@ -1,0 +1,22 @@
+{
+	"author": "Jan Pavelka (www.phoca.cz)",
+	"authorUrl": "https://www.phoca.cz",
+	"copyright": "Jan Pavelka",
+	"license": "GNU/GPL",
+	"projectName": "PhocaCartSubscriptionTaskPlugin",
+	"extensionName": "Phoca Cart Subscription Task Plugin",
+	"nameSpace": "Phocacart\\Plugin\\Task\\Phocacartsubscription",
+	"projectInitials" : "PC",				  
+	"description": "Phoca Cart Subscription Task Plugin - subscription Phoca Cart task plugin.",
+	"projectUrl": "https://www.phoca.cz/phocacart",
+	"projectDocumentationUrl": "https://www.phoca.cz/documentation/category/115-phoca-cart",
+	"projectMainComponent": "Phoca Cart",
+	"projectMainComponentInfoUrl": "https://www.phoca.cz/project/phocacart-joomla-ecommerce",
+	"projectDemo" : {
+		"Joomla! - Phoca Cart Demo": "https://www.phoca.cz/phocacartdemo/"
+	},
+	"projectColor": "#129ed9",
+	"projectBranch": "main"
+}
+
+
